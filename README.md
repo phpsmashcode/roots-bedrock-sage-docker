@@ -28,7 +28,7 @@ Step 4: Copy files from the repository to your root directory, then run followin
 docker-compose build
 docker-compose up -d
 ```
-Atep 5: Access Your WordPress Site & Finalize WordPress Installation:
+Step 5: Access Your WordPress Site & Finalize WordPress Installation:
 Open a web browser and navigate to http://localhost (or the appropriate URL based on your Docker setup).
 
 Step 6: 
